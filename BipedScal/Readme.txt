@@ -8,23 +8,21 @@
 
 BipedScal.mcr を
 C:\Program Files\Autodesk\3ds Max <バージョン>\scripts\
-				  ▲各自違う▲
+									▲各自違う▲
 のフォルダ内へコピー
 
 usericons内の画像4つを
 C:\Users\ <ユーザー名> \AppData\Local\Autodesk\3dsMax\ <バージョン> - 64bit\JPN\usericons\
-          ▲各自違う▲                                 ▲各自違う▲
+           ▲各自違う▲                                   ▲各自違う▲
 英語Ver使用の場合は
 C:\Users\ <UserName> \AppData\Local\Autodesk\3dsMax\ <Version> - 64bit\ENU\usericons\
 のフォルダ内へコピー
 
 ------------------------------------------
 ★3dsMAX 起動★
-
 BipedScal.mcr　をMaxの作業ウインドウ内にドラッグandドロップ
 
 ★3dsMAX 必ず再起動★
-
 カスタマイズ＞ユーザーインターフェイスをカスタマイズ＞ツールバー
 新規...　で 【好きな名前】 を作成
 上のツールバーに ドラッグandドロップ で配置
