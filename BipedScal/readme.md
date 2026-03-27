@@ -14,7 +14,7 @@ BipedScal.mcr を<br>
 usericons内の画像4つを<br>
 "C:\Users\ <ユーザー名> \AppData\Local\Autodesk\3dsMax\ <バージョン> - 64bit\JPN\usericons\"<br>
 英語Ver使用の場合は<br>
-"C:\Users\ <UserName> \AppData\Local\Autodesk\3dsMax\ <Version> - 64bit\ENU\usericons\"<br>
+"C:\Users\ <ユーザー名> \AppData\Local\Autodesk\3dsMax\ <バージョン> - 64bit\ENU\usericons\"<br>
 のフォルダ内へコピー<br>
 <br>
 ------------------------------------------<br>
