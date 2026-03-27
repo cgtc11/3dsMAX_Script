@@ -9,7 +9,7 @@
 <br>
 BipedScal.mcr を<br>
 C:\Program Files\Autodesk\3ds Max <バージョン>\scripts\<br>
-		　　　　　　　　　							▲各自違う▲<br>
+		　　　　　　　　　		  ▲各自違う▲<br>
 のフォルダ内へコピー<br>
 <br>
 usericons内の画像4つを<br>
