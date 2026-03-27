@@ -8,15 +8,15 @@
 ★ファイルのコピー★<br>
 <br>
 BipedScal.mcr を<br>
-C:\Program Files\Autodesk\3ds Max <バージョン>\scripts\<br>
+"C:\Program Files\Autodesk\3ds Max <バージョン>\scripts\"<br>
 		　　　　　　　　　		  ▲各自違う▲<br>
 のフォルダ内へコピー<br>
 <br>
 usericons内の画像4つを<br>
-C:\Users\ <ユーザー名> \AppData\Local\Autodesk\3dsMax\ <バージョン> - 64bit\JPN\usericons\<br>
+"C:\Users\ <ユーザー名> \AppData\Local\Autodesk\3dsMax\ <バージョン> - 64bit\JPN\usericons\"<br>
            ▲各自違う▲                                   ▲各自違う▲<br>
 英語Ver使用の場合は<br>
-C:\Users\ <UserName> \AppData\Local\Autodesk\3dsMax\ <Version> - 64bit\ENU\usericons\<br>
+"C:\Users\ <UserName> \AppData\Local\Autodesk\3dsMax\ <Version> - 64bit\ENU\usericons\"<br>
 のフォルダ内へコピー<br>
 <br>
 ------------------------------------------<br>
